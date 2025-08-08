@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hi, I'm Piyush 👋
+
+**Senior Software Engineer**
+
+---
+
+### About Me
+I am a dumb guy playing with machine.
+
+---
+
+### 🚀 Tech Stack
+- Golang
+- React
+- Backend Development
+- MongoDB
+
+---
+
+### 🏸 Hobbies
+- Badminton enthusiast
 
 <!--
 **piyush1104/piyush1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

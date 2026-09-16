@@ -5,7 +5,7 @@
 ---
 
 ### About Me
-I am a dumb guy playing with machine.
+Another guy who likes to play with machines.
 
 ---
 
